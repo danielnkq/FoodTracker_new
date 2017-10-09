@@ -81,8 +81,8 @@
 			children = (
 				2C4279C01F8A5BCE00BC1743 /* AppDelegate.swift */,
 				2C4279C21F8A5BCE00BC1743 /* ViewController.swift */,
-				2C4279E01F8A93D000BC1743 /* RatingControl.swift */,
 				2C4279C41F8A5BCE00BC1743 /* Main.storyboard */,
+				2C4279E01F8A93D000BC1743 /* RatingControl.swift */,
 				2C4279C71F8A5BCE00BC1743 /* Assets.xcassets */,
 				2C4279C91F8A5BCE00BC1743 /* LaunchScreen.storyboard */,
 				2C4279CC1F8A5BCE00BC1743 /* Info.plist */,
